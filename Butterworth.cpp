@@ -28,7 +28,8 @@
  */
 
 
-#import <iostream>
+#include <algorithm>
+#include <iostream>
 #include <math.h>
 #include "Butterworth.h"
 
